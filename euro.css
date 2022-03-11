@@ -315,7 +315,7 @@ img {
     .gallery {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
-        grid-gap: 70px;
+        grid-gap: 80px;
     }
 
     .profile-image,
